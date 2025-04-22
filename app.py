@@ -65,7 +65,8 @@ st.set_page_config(page_title="DK's Sentiment Analysis", page_icon="💬", layou
 # Sidebar for additional buttons and feedback form
 with st.sidebar:
     # Sentiment analysis image in sidebar
-    st.image("H:/Looking Forward/NLP/Sentimental Anylsis/download.png", width=200)  
+    st.image("download.png", width=200)
+
     
  
     

@@ -3,3 +3,4 @@ joblib==1.1.0  # Ensure you have joblib installed for loading the model
 nltk==3.6.3    # Ensure NLTK is also available
 gtts==2.2.3    # For text-to-speech functionality
 streamlit
+numpy

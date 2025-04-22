@@ -1,6 +1,5 @@
-streamlit==1.33.0
-joblib==1.4.2
-nltk==3.8.1
-gTTS==2.5.1
-scikit-learn==1.4.2
-numpy==1.26.4
+scikit-learn==1.6.1  # or the version you used to train the model
+joblib==1.1.0  # Ensure you have joblib installed for loading the model
+nltk==3.6.3    # Ensure NLTK is also available
+gtts==2.2.3    # For text-to-speech functionality
+streamlit

@@ -1,5 +1,6 @@
-
-streamlit
-joblib
-nltk
-gTTS
+streamlit==1.33.0
+joblib==1.4.2
+nltk==3.8.1
+gTTS==2.5.1
+scikit-learn==1.4.2
+numpy==1.26.4
